@@ -138,6 +138,6 @@ pip install duckdb
 
 Desenvolvido como projeto de portfólio durante o 5º semestre de Ciência da Computação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/thiagomotagomes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thiagomotagomes)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/th900)
 
