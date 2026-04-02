@@ -76,7 +76,7 @@ Antes do pipeline, foram aplicadas validações de negócio:
 ## 🔍 Análises e Insights
 
 **Tempo de entrega vs. Satisfação**
-Pedidos entregues em até 7 dias têm nota média significativamente maior do que pedidos com mais de 30 dias de espera — confirmando que a logística é um fator crítico na experiência do cliente.
+Pedidos entregues em até 7 dias têm nota média significativamente maior do que pedidos com mais de 30 dias de espera (4.41 vs 2.18)— confirmando que a logística é um fator crítico na experiência do cliente.
 
 **Volume por Estado**
 SP, RJ e MG concentram a maior parte dos pedidos, refletindo a distribuição populacional e econômica do Brasil.
